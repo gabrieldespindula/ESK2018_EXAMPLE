@@ -1,9 +1,6 @@
 //Emirates Skills 2018, example program
 #include <LiquidCrystal.h>
 #include "BasicStepperDriver.h"
-//Emirates Skills 2018, example program
-#include <LiquidCrystal.h>
-#include "BasicStepperDriver.h"
 #include "Ultrasonic.h"
 
 // Motor steps per revolution. Most steppers are 200 steps or 1.8 degrees/step
